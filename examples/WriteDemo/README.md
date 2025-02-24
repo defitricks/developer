@@ -46,7 +46,7 @@ The code should compile with `pnpm build`.
 
 This system is quite a bit more involved.
 
-We start by finding out home asteroid, as seen in the ReadDemo.
+We start by finding our home asteroid, as seen in the ReadDemo.
 
 ### Enumerations
 
